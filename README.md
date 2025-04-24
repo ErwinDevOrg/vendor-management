@@ -1,8 +1,10 @@
-![VMS application](https://github.com/ErwinDevOrg/vendor-management/workflows/VMS%20application/badge.svg?branch=master)
-
 # Vendor Management System
 
-This is a sample application that will be used to teach SheCanCodeIT members how to build a web application using Python and Flask.
+## Overview
+This is a Vendor Management System (VMS) built with Flask, designed to help organizations manage their vendors, products, and related information.
+
+## Documentation
+For detailed information about the application's structure and API endpoints, please see the [Application Documentation](Application%20Documentation.md).
 
 ## Get Started
 Install Python 3
@@ -246,5 +248,3 @@ Host: http://localhost:5000
 ```
 Note: Before we can load test, please start the application.  The URL will be what you will provide in the "Host" parameter.
 
-## Documentation
-For detailed information about the application's structure and API endpoints, please see the [Application Documentation](Application%20Documentation.md).
