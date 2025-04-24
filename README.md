@@ -3,6 +3,12 @@
 ## Overview
 This is a Vendor Management System (VMS) built with Flask, designed to help organizations manage their vendors, products, and related information.
 
+Core Architecture:
+* Built using Flask framework with a RESTful API design
+* Uses SQLAlchemy for database management
+* Implements token-based authentication with JWT
+* Follows a modular blueprint structure for different components
+
 ## Documentation
 For detailed information about the application's structure and API endpoints, please see the [Application Documentation](Application%20Documentation.md).
 
