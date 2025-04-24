@@ -1,4 +1,4 @@
-![VMS application](https://github.com/erwindev/vendor-management/workflows/VMS%20application/badge.svg?branch=master)
+![VMS application](https://github.com/ErwinDevOrg/vendor-management/workflows/VMS%20application/badge.svg?branch=master)
 
 # Vendor Management System
 
