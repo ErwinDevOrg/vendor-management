@@ -28,7 +28,7 @@ Flask-WTF==1.2.1
 gevent==24.2.1
 geventhttpclient==2.0.12
 greenlet==3.0.3
-gunicorn==21.2.0
+gunicorn==23.0.0
 idna==3.6
 importlib-metadata==7.0.1
 importlib_resources==6.5.2
