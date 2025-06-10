@@ -61,7 +61,7 @@ python-editor==1.0.4
 pytz==2024.1
 pyzmq==25.1.2
 referencing==0.35.1
-requests==2.31.0
+requests==2.32.4
 roundrobin==0.0.4
 rpds-py==0.22.3
 six==1.16.0
